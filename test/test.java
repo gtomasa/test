@@ -8,5 +8,4 @@ public class Hello {
     int result = math();
       System.out.println("Hello, " + args[0] + "!");
   }
-}
-
+}//hoge
